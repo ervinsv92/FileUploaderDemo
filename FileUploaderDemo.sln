@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploaderDemo", "FileUploaderDemo\FileUploaderDemo.csproj", "{0F09043B-51BB-4C84-83E4-2282394A2C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploaderDemoAPI", "FileUploaderDemoAPI\FileUploaderDemoAPI.csproj", "{32282AC0-B35E-45FB-ADB5-C05DD297AF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F09043B-51BB-4C84-83E4-2282394A2C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F09043B-51BB-4C84-83E4-2282394A2C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F09043B-51BB-4C84-83E4-2282394A2C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F09043B-51BB-4C84-83E4-2282394A2C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32282AC0-B35E-45FB-ADB5-C05DD297AF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32282AC0-B35E-45FB-ADB5-C05DD297AF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32282AC0-B35E-45FB-ADB5-C05DD297AF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32282AC0-B35E-45FB-ADB5-C05DD297AF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {322F0BAF-9476-4082-80C6-18342DD8F1F1}
+	EndGlobalSection
+EndGlobal
